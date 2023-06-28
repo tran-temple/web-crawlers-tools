@@ -8,7 +8,7 @@ sitemap generation, SEO checks, spelling & grammar are all available in two rela
   - Input the staring URL and select options to do checking
     ![Settings to start crawling](./images/Integrity%20settings.png)
   - If your site is large, it will take a long time to craw all links
-  - View results with options By Link URL, By Page, By Satus and All links
+  - View results with options By Link URL, By Page, By Status and All links
     ![Results Link By URL](./images/Report%20Link%20By%20URL.png)
     ![Results By Status](./images/Report%20By%20Status.png)
 
