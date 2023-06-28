@@ -11,6 +11,7 @@ sitemap generation, SEO checks, spelling & grammar are all available in two rela
   - View results with options By Link URL, By Page, By Status and All links
     ![Results Link By URL](./images/Report%20Link%20By%20URL.png)
     ![Results By Status](./images/Report%20By%20Status.png)
+  - Selecting the Integrity Help menu will open the user guide of this tool. For instance, here is [the Integrity Help link.](https://peacockmedia.software/mac/integrity/manual/v12/index.html)
 
 **REVIEWS:**
 This is review when I am trying with the free version
