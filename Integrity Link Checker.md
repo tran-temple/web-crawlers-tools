@@ -5,7 +5,7 @@ sitemap generation, SEO checks, spelling & grammar are all available in two rela
 [Here is a comparison of versions and price of them.](https://peacockmedia.software/mac/integrity/)
 
 **HOW:** Download at the [Integrity - The free website link checker for Mac](https://peacockmedia.software/mac/integrity/free.html) and install the free version
-  - Input the staring URL and check options to do checking
+  - Input the staring URL and select options to do checking
     ![Settings to start crawling](./images/Integrity%20settings.png)
   - If your site is large, it will take a long time to craw all links
   - View results with options By Link URL, By Page, By Satus and All links
