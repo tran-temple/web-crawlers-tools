@@ -37,5 +37,5 @@ Pros
 Cons
 
   - The tool is only for Windows.
-  - The output report is in the html format.
+  - It doesn't offer exporting data to the CSV file.
   - You should have the anti-virus software on the computer before downloading and installing this tool for using.
